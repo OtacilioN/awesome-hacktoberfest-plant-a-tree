@@ -1,2 +1,3 @@
-# awesome-hacktoberfest-plant-a-tree
-This year the Hacktoberfest has the option "pick trees, not tees", but if you, like me, love the hacktoberfest t-shirt and collect all editions, but do not want to stop contributing to the environment and a sustainable future, in this awesome list you will find organisations where you can make a donation and plant a tree as well.
+# Awesome Hacktoberfest Plant a Tree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling: 
