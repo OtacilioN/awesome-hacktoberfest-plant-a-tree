@@ -10,6 +10,8 @@
 ## Global
 
 - [Team Trees](https://teamtrees.org/)
+- [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 
 ## Brazil
 
