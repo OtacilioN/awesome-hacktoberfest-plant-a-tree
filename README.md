@@ -10,6 +10,7 @@
 ## Global
 
 - [Team Trees](https://teamtrees.org/)
+- [One Tree Planted](https://onetreeplanted.org)
 
 ## Brazil
 
