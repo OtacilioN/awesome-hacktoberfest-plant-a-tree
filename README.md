@@ -20,6 +20,9 @@
 - [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)
 - [Refloresta](https://www.refloresta.org.br/plante)
 - [Iniciativa Verde](https://www.iniciativaverde.org.br/programas-e-projetos-amigo-da-floresta-form-plante-arvores.php)
+- [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)
+- [Amazonia Live](https://doare.org/amazonia-live)
+- [Global Tree](http://www.globaltree.com.br/doar.html)
 
 ## India
 
