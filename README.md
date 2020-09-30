@@ -7,13 +7,14 @@
 - [Global](#global)
 - [Brazil](#brazil)
 - [India](#india)
-- [Canada](#Canada)
+- [Canada](#canada)
 
 ## Global
 
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [Rotary International](https://www.rotary.org/)
 
 ## Brazil
 
@@ -30,6 +31,7 @@
 - [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
+- [Rotary India](https://www.rotaryindia.org/)
 
 
 ## Canada
