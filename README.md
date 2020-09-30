@@ -8,6 +8,7 @@
 - [Brazil](#brazil)
 - [India](#india)
 - [Canada](#Canada)
+- [Indonesia](#Indonesia)
 
 ## Global
 
@@ -36,3 +37,11 @@
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 - [TreeCanada](https://treecanada.ca/)
+
+## Indonesia
+
+- [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)
+- [Trees4Trees](https://trees4trees.org/)
+- [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)
+- [Reforestaction](https://www.reforestaction.com/en/indonesia)
+- [OneTreePLanted](https://onetreeplanted.org/products/indonesia)
