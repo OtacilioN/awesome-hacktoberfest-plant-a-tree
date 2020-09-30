@@ -14,6 +14,7 @@
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 
 ## Brazil
 
@@ -30,9 +31,11 @@
 - [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
+- [SayTress](https://www.saytrees.org/)
+- [Back To Green](https://www.backtogreen.in/donate)
+- [Sprouting India](https://www.sproutingindia.org/our-story)
 
 
 ## Canada
 
-- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 - [TreeCanada](https://treecanada.ca/)
