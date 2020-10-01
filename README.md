@@ -15,6 +15,8 @@
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [Trees For the Future](https://trees.org/)
+- [International Tree Foundation](https://internationaltreefoundation.org/donate/)
 
 ## Brazil
 
@@ -31,6 +33,8 @@
 - [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
+- [SayTrees](https://saytrees.org/donate)
+- [Siruthuli](https://siruthuli.com/donate/)
 
 
 ## Canada
