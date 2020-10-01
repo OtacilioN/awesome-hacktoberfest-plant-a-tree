@@ -8,7 +8,7 @@
 - [Brazil](#brazil)
 - [India](#india)
 - [Canada](#Canada)
-- [CALIFORNIA](#CALIFORNIA)
+- [USA](#USA)
 ## Global
 
 - [Team Trees](https://teamtrees.org/)
@@ -37,6 +37,6 @@
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 - [TreeCanada](https://treecanada.ca/)
 
-## CALIFORNIA
+## USA
 
 - [onetreeplanted](https://onetreeplanted.org/)
