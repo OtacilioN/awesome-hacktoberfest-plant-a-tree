@@ -17,6 +17,7 @@
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
 - [Trees For the Future](https://trees.org/)
 - [International Tree Foundation](https://internationaltreefoundation.org/donate/)
+- [WeForest](https://www.weforest.org/page/donate)
 
 ## Brazil
 
@@ -26,6 +27,7 @@
 - [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)
 - [Amazonia Live](https://doare.org/amazonia-live)
 - [Global Tree](http://www.globaltree.com.br/doar.html)
+- [Regua](http://regua.org/donate/)
 
 ## India
 
