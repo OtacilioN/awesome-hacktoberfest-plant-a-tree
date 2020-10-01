@@ -49,6 +49,7 @@
 
 ## Germany
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)
+- [Ecosia](https://www.ecosia.org)
 
 ## Indonesia
 
