@@ -1,6 +1,6 @@
 # Awesome Hacktoberfest Plant a Tree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling: 
+> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling:
 
 ## Choose where to plant
 
@@ -15,6 +15,7 @@
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [International Tree Foundation](https://internationaltreefoundation.org/)
 
 ## Brazil
 
@@ -31,12 +32,14 @@
 - [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
-
+- [GiveIndia Fundraisers](https://fundraisers.giveindia.org/campaigns/plant-a-tree-for-life)
+- [Siruthuli](https://siruthuli.com/)
 
 ## Canada
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 - [TreeCanada](https://treecanada.ca/)
+- [Donate-Forests Ontario](https://www.forestsontario.ca/community/get-involved/donate/) -[Forest Recovery Canada](https://www.frc-rfc.ca/)
 
 ## Indonesia
 
