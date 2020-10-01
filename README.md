@@ -7,10 +7,10 @@
 - [Global](#global)
 - [Brazil](#brazil)
 - [India](#india)
-- [Canada](#Canada)
+- [Canada](#canada)
 - [Germany](#germany)
 - [Indonesia](#Indonesia)
-- [USA](#USA)
+- [USA](#usa)
 
 
 ## Global
@@ -18,6 +18,7 @@
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [Rotary International](https://www.rotary.org/)
 - [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)
 
 
@@ -36,6 +37,7 @@
 - [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
+- [Rotary India](https://www.rotaryindia.org/)
 
 
 ## Canada
