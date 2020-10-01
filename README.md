@@ -45,3 +45,5 @@
 - [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)
 - [OneTreePLanted](https://onetreeplanted.org/products/indonesia)
+- [LindungiHutan](https://lindungihutan.com/)
+- [GoniGoni](https://gonigoni.id)
