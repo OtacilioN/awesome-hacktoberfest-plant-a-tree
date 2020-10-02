@@ -6,9 +6,9 @@
 
 - [Global](#global)
 - [Brazil](#brazil)
-- [India](#india)
 - [Canada](#canada)
 - [Germany](#germany)
+- [India](#india)
 - [Indonesia](#Indonesia)
 - [USA](#usa)
 
@@ -35,6 +35,15 @@
 - [Global Tree](http://www.globaltree.com.br/doar.html)
 - [Regua](http://regua.org/donate/)
 
+## Canada
+
+- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
+- [TreeCanada](https://treecanada.ca/)
+
+## Germany
+
+- [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)
+
 ## India
 
 - [SankalpTaru](https://sankalptaru.org/)
@@ -44,14 +53,6 @@
 - [SayTree](https://saytrees.org/)
 - [Siruthuli](https://siruthuli.com/)
 - [Rotary India](https://www.rotaryindia.org/)
-
-## Canada
-
-- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
-- [TreeCanada](https://treecanada.ca/)
-
-## Germany
-- [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)
 
 ## Indonesia
 
