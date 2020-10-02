@@ -11,6 +11,8 @@
 - [Germany](#germany)
 - [Indonesia](#Indonesia)
 - [USA](#usa)
+- [Nepal](#nepal)
+
 
 
 ## Global
@@ -64,3 +66,11 @@
 ## USA
 
 - [onetreeplanted](https://onetreeplanted.org/)
+
+## Nepal
+
+- [Eden Reforestation Project](https://edenprojects.org/nepal/)
+
+
+
+
