@@ -14,6 +14,10 @@
 
 
 ## Global
+- [Trees for the future](https://trees.org/)
+- [Plant with purpose](https://plantwithpurpose.org/)
+- [Arbour day foundation](https://www.arborday.org/)
+- [Trees,Water and People](https://treeswaterpeople.org/)
 - [International Tree Foundation](https://internationaltreefoundation.org/donate/) <img src="https://internationaltreefoundation.org/wp-content/uploads/2019/08/Facebook-ratio-2019.png" width=20>
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Plant-for-the-Planet.svg/1200px-Plant-for-the-Planet.svg.png" width=20>
