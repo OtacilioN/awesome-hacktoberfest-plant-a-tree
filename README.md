@@ -1,6 +1,6 @@
 # Awesome Hacktoberfest Plant a Tree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling: 
+> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling:
 
 ## Choose where to plant
 
@@ -18,7 +18,7 @@
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
-- [TrillionTreeCampaign](https://www.trilliontreecampaign.org/) 
+- [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)
 - [Trees For the Future](https://trees.org/)
 - [International Tree Foundation](https://internationaltreefoundation.org/donate/)
 - [WeForest](https://www.weforest.org/page/donate)
@@ -64,3 +64,9 @@
 ## USA
 
 - [onetreeplanted](https://onetreeplanted.org/)
+
+##Nepal
+
+- [Eden Projects](https://edenprojects.org/nepal/)
+- [ICIMOD Nepal](https://www.icimod.org/)
+- [EHN Nepal](https://ehn-nepal.org/)
