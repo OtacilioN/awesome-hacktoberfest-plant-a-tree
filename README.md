@@ -6,44 +6,45 @@
 
 - [Global](#global)
 - [Brazil](#brazil)
-- [India](#india)
 - [Canada](#canada)
 - [Germany](#germany)
+- [India](#india)
 - [Indonesia](#Indonesia)
 - [USA](#usa)
 
 
 ## Global
 
-- [Team Trees](https://teamtrees.org/)
+- [International Tree Foundation](https://internationaltreefoundation.org/donate/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
+- [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)
+- [Rotary International](https://www.rotary.org/)
+- [Team Trees](https://teamtrees.org/)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/) 
 - [Trees For the Future](https://trees.org/)
-- [International Tree Foundation](https://internationaltreefoundation.org/donate/)
 - [WeForest](https://www.weforest.org/page/donate)
-- [Rotary International](https://www.rotary.org/)
-- [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)
 
 ## Brazil
 
-- [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)
-- [Refloresta](https://www.refloresta.org.br/plante)
-- [Iniciativa Verde](https://www.iniciativaverde.org.br/programas-e-projetos-amigo-da-floresta-form-plante-arvores.php)
-- [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)
 - [Amazonia Live](https://doare.org/amazonia-live)
 - [Global Tree](http://www.globaltree.com.br/doar.html)
+- [Iniciativa Verde](https://www.iniciativaverde.org.br/programas-e-projetos-amigo-da-floresta-form-plante-arvores.php)
+- [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)
+- [Refloresta](https://www.refloresta.org.br/plante)
 - [Regua](http://regua.org/donate/)
+- [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)
 
 ## India
 
-- [SankalpTaru](https://sankalptaru.org/)
-- [Grow-Trees](https://www.grow-trees.com/)
 - [Green Yatra](http://www.greenyatra.org/)
+- [Grow-Trees](https://www.grow-trees.com/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
+- [Rotary India](https://www.rotaryindia.org/)
+- [SankalpTaru](https://sankalptaru.org/)
 - [SayTree](https://saytrees.org/)
 - [Siruthuli](https://siruthuli.com/)
-- [Rotary India](https://www.rotaryindia.org/)
+
 
 ## Canada
 
@@ -55,11 +56,11 @@
 
 ## Indonesia
 
-- [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)
-- [Trees4Trees](https://trees4trees.org/)
 - [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)
-- [Reforestaction](https://www.reforestaction.com/en/indonesia)
 - [OneTreePLanted](https://onetreeplanted.org/products/indonesia)
+- [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)
+- [Reforestaction](https://www.reforestaction.com/en/indonesia)
+- [Trees4Trees](https://trees4trees.org/)
 
 ## USA
 
