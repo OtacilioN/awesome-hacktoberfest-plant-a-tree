@@ -10,6 +10,8 @@
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
+- [Japan](#japan):jp:
+- [UK](#uk):uk:
 - [USA](#usa):us:
 
 
