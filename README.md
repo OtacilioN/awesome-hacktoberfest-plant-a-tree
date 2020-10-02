@@ -11,6 +11,7 @@
 - [Germany](#germany)
 - [Indonesia](#Indonesia)
 - [USA](#usa)
+- [New Zealand](#newzealand)
 
 
 ## Global
@@ -64,3 +65,7 @@
 ## USA
 
 - [onetreeplanted](https://onetreeplanted.org/)
+
+## New Zealand
+
+- [treesthatcount](https://www.treesthatcount.co.nz/)
