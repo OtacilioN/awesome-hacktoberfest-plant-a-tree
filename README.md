@@ -7,13 +7,20 @@
 - [Global](#global)
 - [Brazil](#brazil)
 - [India](#india)
-- [Canada](#Canada)
+- [Canada](#canada)
+- [Germany](#germany)
+- [Indonesia](#Indonesia)
+- [USA](#usa)
+
 
 ## Global
 
 - [Team Trees](https://teamtrees.org/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)
 - [The Nature Conservancy](https://support.nature.org/site/Donation)
+- [Rotary International](https://www.rotary.org/)
+- [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)
+
 
 ## Brazil
 
@@ -31,9 +38,25 @@
 - [Green Yatra](http://www.greenyatra.org/)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)
 - [SayTree](https://saytrees.org/)
-
+- [Siruthuli](https://siruthuli.com/)
+- [Rotary India](https://www.rotaryindia.org/)
 
 ## Canada
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)
 - [TreeCanada](https://treecanada.ca/)
+
+## Germany
+- [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)
+
+## Indonesia
+
+- [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)
+- [Trees4Trees](https://trees4trees.org/)
+- [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)
+- [Reforestaction](https://www.reforestaction.com/en/indonesia)
+- [OneTreePLanted](https://onetreeplanted.org/products/indonesia)
+
+## USA
+
+- [onetreeplanted](https://onetreeplanted.org/)
