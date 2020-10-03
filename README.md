@@ -45,8 +45,7 @@
 
 ## Germany
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397199310/c631aa62c243f1b9ff446c3ec7e80954.png" width=20>
-
-
+- [Ecosia](https://www.ecosia.org)
 
 ## India
 
@@ -59,8 +58,6 @@
 - [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
-
-
 
 ## Indonesia
 
