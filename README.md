@@ -35,7 +35,7 @@
 - [Refloresta](https://www.refloresta.org.br/plante)<img src="https://refloresta.pt/wp-content/uploads/2019/10/Logo-Refloresta-500px-min.png" width=20>
 - [Regua](http://regua.org/donate/)<img src="https://www.rainforesttrust.org/wp-content/uploads/regua.jpg" width=20>
 - [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)<img src="https://i.pinimg.com/originals/78/ff/ec/78ffecbe0d76e547389390d64294fd33.jpg" width=20>
-
+- [WeForest] (https://www.weforest.org/project/brazil-wildlife-corridors) <igm src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
 ## Canada
 
@@ -72,5 +72,5 @@
 
 
 ## USA
-
+- [ArborDayFoundation](https://www.arborday.org/)<img src="https://www.arborday.org/images/logos/logo-arbor-day-foundation-color.png" width=20>
 - [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
