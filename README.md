@@ -5,13 +5,13 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
+- [Argentina](#Argentina)
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [USA](#usa):us:
-- [Argentina](#Argentina)
 
 
 ## Global
@@ -25,7 +25,10 @@
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20> 
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
+## Argentina
 
+- [ReforestArg](https://en.reforestarg.org.ar/)
+- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 
 ## Brazil
 
@@ -72,7 +75,3 @@
 
 - [onetreeplanted](https://onetreeplanted.org/)
 
-## Argentina
-
-- [ReforestArg](https://en.reforestarg.org.ar/)
-- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
