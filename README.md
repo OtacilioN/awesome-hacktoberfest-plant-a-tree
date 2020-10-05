@@ -1,6 +1,6 @@
 # Awesome Hacktoberfest Plant a Tree [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling: 
+> Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling:
 
 ## Choose where to plant
 
@@ -12,6 +12,7 @@
 - [Indonesia](#indonesia):indonesia:
 - [USA](#usa):us:
 - [Argentina](#Argentina)
+- [Mexico](#mexico):mexico:
 
 
 ## Global
@@ -22,7 +23,7 @@
 - [Team Trees](https://teamtrees.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Team_Trees_circle_logo.svg/1200px-Team_Trees_circle_logo.svg.png" width=20>
 - [The Nature Conservancy](https://support.nature.org/site/Donation)<img src="https://initiative20x20.org/sites/default/files/2019-03/TNCLogoPrimary_RGB.jpg" width=20>
 - [Trees For the Future](https://trees.org/)<img src="https://internationaltreefoundation.org/wp-content/uploads/2016/06/TFTF_logo-220x160.jpg" width=20>
-- [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20> 
+- [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
 
@@ -76,3 +77,9 @@
 
 - [ReforestArg](https://en.reforestarg.org.ar/)
 - [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
+
+## Mexico
+
+- [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
+- [Reforestamos Mexico](https://www.reforestamosmexico.org/)
+- [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
