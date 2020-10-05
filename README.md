@@ -59,6 +59,7 @@
 - [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
+- [Nelda](https://www.nelda.org.in)<img src="https://www.nelda.org.in/images/logo.png" width=20>
 
 ## Indonesia
 
