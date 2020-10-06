@@ -59,6 +59,8 @@
 - [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
+- [Paryawan Mitra](https://paryavaranmitra.in/Default.aspx?sID=45)
+   <img src="http://1.bp.blogspot.com/-GiHwhbGZBdA/T8YRYuw6H3I/AAAAAAAACH4/I1X2m5ntu0c/s1600/eng.jpg" width = 20> 
 
 ## Indonesia
 
