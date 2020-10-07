@@ -2,7 +2,6 @@
 
 > Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling: 
 
-# Take a step to prevent Global Warning and bring a change
 
 ## Choose where to plant
 
