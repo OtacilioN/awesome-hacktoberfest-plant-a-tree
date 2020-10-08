@@ -15,6 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
+- [Rwanda](#rwanda):rwanda:
 
 
 ## Global
@@ -97,3 +98,7 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Rwanda
+
+- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
