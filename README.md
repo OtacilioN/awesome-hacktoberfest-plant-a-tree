@@ -5,16 +5,16 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
+- [Argentina](#Argentina):argentina:
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
+- [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
-- [Argentina](#Argentina)
-- [Mexico](#mexico):mexico:
 
 
 ## Global
@@ -29,6 +29,12 @@
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
 
+## Argentina
+
+- [ReforestArg](https://en.reforestarg.org.ar/)
+- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
+
+
 ## Brazil
 
 - [Amazonia Live](https://doare.org/amazonia-live)<img src="https://believe.earth/wp-content/uploads/2017/11/amazonia-live-logo-239x150.png" width=20>
@@ -39,6 +45,7 @@
 - [Regua](http://regua.org/donate/)<img src="https://www.rainforesttrust.org/wp-content/uploads/regua.jpg" width=20>
 - [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)<img src="https://i.pinimg.com/originals/78/ff/ec/78ffecbe0d76e547389390d64294fd33.jpg" width=20>
 
+
 ## Canada
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
@@ -48,6 +55,7 @@
 ## Germany
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397199310/c631aa62c243f1b9ff446c3ec7e80954.png" width=20>
 - [Ecosia](https://www.ecosia.org)
+
 
 ## India
 
@@ -61,6 +69,7 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
+
 
 ## Indonesia
 
@@ -76,6 +85,13 @@
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
 
 
+## Mexico
+
+- [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
+- [Reforestamos Mexico](https://www.reforestamosmexico.org/)
+- [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+
 ## UK
 
 - [The Tree Council](https://treecouncil.org.uk/)<img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/87468971_2721560951296392_4241276193300545536_n.png?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=gCOXEVYApKcAX9ywKGm&_nc_ht=scontent.fbom3-2.fna&oh=b6ca6303961f663e5aa28717e9dc8ac3&oe=5F9D20E3" width=20>
@@ -87,13 +103,4 @@
 - [The Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/plant-a-billion/)
 - [National Forest Foundation](https://www.nationalforests.org/get-involved/tree-planting-programs/)<img src="https://www.nationalforests.org/_theme/img/new-nff-logo-stacked.svg" width=20>
 
-## Argentina
 
-- [ReforestArg](https://en.reforestarg.org.ar/)
-- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
-
-## Mexico
-
-- [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
-- [Reforestamos Mexico](https://www.reforestamosmexico.org/)
-- [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
