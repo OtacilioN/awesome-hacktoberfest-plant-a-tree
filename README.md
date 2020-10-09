@@ -27,6 +27,7 @@
 - [Trees For the Future](https://trees.org/)<img src="https://internationaltreefoundation.org/wp-content/uploads/2016/06/TFTF_logo-220x160.jpg" width=20>
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
+- [World Land Trust](https://www.worldlandtrust.org/appeals/plant-a-tree/)<img src="https://upload.wikimedia.org/wikipedia/en/3/3f/World_Land_Trust_logo.png" width=20>
 
 
 ## Brazil
