@@ -15,7 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
-- [New Zealand](#nz):nz:
+- [New Zealand](#new-zealand):new_zealand:
 
 
 ## Global
