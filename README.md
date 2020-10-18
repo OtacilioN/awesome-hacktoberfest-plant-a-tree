@@ -15,7 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
-- [France](#france):france:
+- [France](#france):fr:
 
 
 ## Global
@@ -112,5 +112,5 @@
 
 ## France
 
--[MyTree](https://www.my-tree.com/en/projets/35)
+- [MyTree](https://www.my-tree.com/en/projets/35)
 
