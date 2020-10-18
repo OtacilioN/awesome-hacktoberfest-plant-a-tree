@@ -110,7 +110,7 @@
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
 
-##France
+## France
 
 -[MyTree](https://www.my-tree.com/en/projets/35)
 
