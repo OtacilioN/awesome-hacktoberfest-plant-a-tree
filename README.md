@@ -15,6 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
+- [Nepal](#nepal):nepal:
 
 
 ## Global
@@ -108,3 +109,9 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Nepal
+
+- [Eden Reforestration Project](https://edenprojects.org/nepal/)
+- [Just One Tree](https://www.justonetree.life/where-we-plant_nepal.html)
+
