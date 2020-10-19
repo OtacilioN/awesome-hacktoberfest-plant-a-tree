@@ -15,6 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
+- [Srilanka](#Srilanka)
 
 
 ## Global
@@ -31,6 +32,7 @@
 - [Trees For the Future](https://trees.org/)<img src="https://internationaltreefoundation.org/wp-content/uploads/2016/06/TFTF_logo-220x160.jpg" width=20>
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
+- [Ecosia](https://info.ecosia.org)
 
 
 ## Brazil
@@ -67,6 +69,10 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
+- [Viruksham](http://www.viruksham.in)
+- [Nizhal](http://www.nizhaltn.org)
+- [PeepalBaba](https://peepalbaba.org)
+- [Vaanam India Foundation](http://vanamindiafoundation.org)
 
 
 ## Indonesia
@@ -108,3 +114,8 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Srilanka
+
+- [Thuru](https://thuru.lk)
+- [Reforest Srilanka] (http://www.reforestsrilanka.com)
