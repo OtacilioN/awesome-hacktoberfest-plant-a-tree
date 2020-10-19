@@ -5,13 +5,14 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
+- [Australia](#australia):australia:
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
-- [UK](#uk):uk: 
+- [UK](#uk):uk:
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
@@ -32,6 +33,11 @@
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
+## Australia
+- [One tree planted](https://onetreeplanted.org/products/australia)
+- [Plant a tree for me!](https://www.plantatreeforme.org.au/)
+- [Reforest Now](https://www.reforestnow.org.au/)
+- [Trillion Trees](https://trilliontrees.org.au/)
 
 ## Brazil
 
