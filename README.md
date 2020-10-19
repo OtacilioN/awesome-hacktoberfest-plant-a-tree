@@ -61,6 +61,8 @@
 - [Green Yatra](http://www.greenyatra.org/)<img src="https://www.greenyatra.org/images/services/tree-plant.png" width=20>
 - [Greenvein](http://greenvein.org/)
 - [Grow-Trees](https://www.grow-trees.com/)<img src="https://www.grow-trees.com/img/GTsociallogo.png" width=20>
+- [Nizhal](http://www.nizhaltn.org)
+- [PeepalBaba](https://peepalbaba.org)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)<img src="https://www.gbrionline.org/wp-content/uploads/2017/05/1.png" width=20>
 - [onetreeplanted](https://onetreeplanted.org/products/india)
 - [Rotary India](https://www.rotaryindia.org/)<img src="https://www.rotaryindia.org/assets/images/logo.png" width=20>
@@ -69,10 +71,8 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
-- [Viruksham](http://www.viruksham.in)
-- [Nizhal](http://www.nizhaltn.org)
-- [PeepalBaba](https://peepalbaba.org)
 - [Vaanam India Foundation](http://vanamindiafoundation.org)
+- [Viruksham](http://www.viruksham.in)
 
 
 ## Indonesia
@@ -117,5 +117,5 @@
 
 ## Srilanka
 
-- [Thuru](https://thuru.lk)
 - [Reforest Srilanka] (http://www.reforestsrilanka.com)
+- [Thuru](https://thuru.lk)
