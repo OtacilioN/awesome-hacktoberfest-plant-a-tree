@@ -98,6 +98,7 @@
 ## Sri Lanka
 
 - [Forest Healing Foundation](https://www.foresthealingsrilanka.org/)
+- [Srimalplantation](https://www.srimalplantation.com/adopt-a-tree/)
 - [Thuru](https://thuru.lk/)
 
 
