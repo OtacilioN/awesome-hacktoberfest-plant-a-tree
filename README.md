@@ -7,6 +7,7 @@
 - [Global](#global):globe_with_meridians:
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
+- [Ecuador](#ecuador):ecuador:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
@@ -48,6 +49,10 @@
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
+
+## Ecuador
+
+- [Ishpingo](https://ishpingo.org/en/support-us/)
 
 
 ## Germany
