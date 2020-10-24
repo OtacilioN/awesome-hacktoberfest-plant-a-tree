@@ -63,7 +63,7 @@
 - [onetreeplanted](https://onetreeplanted.org/products/india)
 - [Rotary India](https://www.rotaryindia.org/)<img src="https://www.rotaryindia.org/assets/images/logo.png" width=20>
 - [SankalpTaru](https://sankalptaru.org/)<img src="https://sankalptaru.org/wp-content/themes/sankalptaru/dist/img/st-logo-green.png" width=20>
-- [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
+- [SayTrees](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
