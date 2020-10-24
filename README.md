@@ -67,6 +67,7 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
+- [SankalpTaru](https://sankalptaru.org/)
 
 
 ## Indonesia
