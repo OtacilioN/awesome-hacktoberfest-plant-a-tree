@@ -10,6 +10,7 @@
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
+- [Italy](#italy):italy:
 - [Japan](#japan):jp:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
@@ -77,6 +78,10 @@
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)<img src="https://www.reforestaction.com/sites/default/files/logoraen.jpg" width=20>
 - [Trees4Trees](https://trees4trees.org/)<img src="https://trees4trees.org/wp-content/uploads/2020/07/logo-t4t.png" width=20>
 
+
+## Italy
+
+- [Biorfarm](https://www.biorfarm.com)<img src="https://res.cloudinary.com/biorfarm/image/upload/c_scale,w_200/v1536053166/static/biorfarm-logo.png" width=20>
 
 ## Japan
 
