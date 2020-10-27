@@ -67,7 +67,7 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
-
+- [GiveIndia](https://fundraisers.giveindia.org/campaigns/plant-a-tree-for-life)
 
 ## Indonesia
 
