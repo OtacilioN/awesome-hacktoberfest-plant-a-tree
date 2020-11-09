@@ -11,13 +11,14 @@
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
-- [UK](#uk):uk: 
+- [UK](#uk):uk:
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
-
+- [Pakistan](#pakistan):pakistan:
 
 ## Global
+
 - [Trees for the future](https://trees.org/)
 - [Plant with purpose](https://plantwithpurpose.org/)
 - [Arbour day foundation](https://www.arborday.org/)
@@ -31,7 +32,6 @@
 - [Trees For the Future](https://trees.org/)<img src="https://internationaltreefoundation.org/wp-content/uploads/2016/06/TFTF_logo-220x160.jpg" width=20>
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
-
 
 ## Brazil
 
@@ -48,8 +48,8 @@
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
 
-
 ## Germany
+
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397199310/c631aa62c243f1b9ff446c3ec7e80954.png" width=20>
 - [Ecosia](https://www.ecosia.org)
 - [Green Forest Fund](https://www.greenforestfund.de/en/participate/tree-gift/)
@@ -69,7 +69,6 @@
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
 
-
 ## Indonesia
 
 - [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)<img src="https://www.justonetree.life/uploads/1/2/5/8/125855028/jot-logo-single-line-colour_3.png" width=20>
@@ -78,16 +77,13 @@
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)<img src="https://www.reforestaction.com/sites/default/files/logoraen.jpg" width=20>
 - [Trees4Trees](https://trees4trees.org/)<img src="https://trees4trees.org/wp-content/uploads/2020/07/logo-t4t.png" width=20>
 
-
 ## Japan
 
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
 
-
 ## UK
 
 - [The Tree Council](https://treecouncil.org.uk/)<img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/87468971_2721560951296392_4241276193300545536_n.png?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=gCOXEVYApKcAX9ywKGm&_nc_ht=scontent.fbom3-2.fna&oh=b6ca6303961f663e5aa28717e9dc8ac3&oe=5F9D20E3" width=20>
-
 
 ## Taiwan
 
@@ -109,3 +105,8 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Pakistan
+
+- [Caritas](https://www.caritas.org/2020/05/one-million-trees/)
+- [Hidaya Foundation](https://www.hidaya.org/environment/one-million-trees/)
