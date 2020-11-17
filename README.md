@@ -15,6 +15,7 @@
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
+- [SriLanka](#srilanka):srilanka:
 
 
 ## Global
@@ -109,3 +110,8 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## SriLanka
+
+- [The Forest Healing Foundation](https://www.foresthealingsrilanka.org/about-us)
+- [Adopt A Tree](https://www.srimalplantation.com/adopt-a-tree/)
