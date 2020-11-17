@@ -45,6 +45,8 @@
 
 ## Canada
 
+- [A Living Tribute](https://www.alivingtribute.ca/)<img src="https://static.wixstatic.com/media/e6f7708ae44157edb3c391a7e06cd470.png/v1/fill/w_70,h_88,al_c,q_85,usm_0.66_1.00_0.01/e6f7708ae44157edb3c391a7e06cd470.webp" width=20>
+- [Forest Farmer](https://createyourforest.ca/)<img src="https://createyourforest.ca/bundles/createyourforest/images/second-logo.png" width=20>
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
 
