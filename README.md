@@ -7,11 +7,12 @@
 - [Global](#global):globe_with_meridians:
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
+- [Ecuador](#ecuador):ecuador:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
-- [UK](#uk):uk: 
+- [UK](#uk):uk:
 - [USA](#usa):us:
 - [Argentina](#Argentina)
 - [Mexico](#mexico):mexico:
@@ -23,6 +24,7 @@
 - [Arbour day foundation](https://www.arborday.org/)
 - [Trees,Water and People](https://treeswaterpeople.org/)
 - [International Tree Foundation](https://internationaltreefoundation.org/donate/) <img src="https://internationaltreefoundation.org/wp-content/uploads/2019/08/Facebook-ratio-2019.png" width=20>
+- [On A Mission](https://www.onamission.world/)
 - [One Tree Planted](https://onetreeplanted.org/products/plant-trees)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [Plant For The Planet](https://www.plant-for-the-planet.org/en/home)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Plant-for-the-Planet.svg/1200px-Plant-for-the-Planet.svg.png" width=20>
 - [Rotary International](https://www.rotary.org/)<img src="https://www.uticaphoenix.net/wp-content/uploads/2020/07/stock-photo-Rotary-7.24.png" width=20>
@@ -47,6 +49,10 @@
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
+
+## Ecuador
+
+- [Ishpingo](https://ishpingo.org/en/support-us/)
 
 
 ## Germany
