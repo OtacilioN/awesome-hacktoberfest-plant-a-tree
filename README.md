@@ -48,6 +48,8 @@
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
 
+## Colombia
+- [red de arboles](https://www.reddearboles.org/)<img src="https://www.reddearboles.org/imagenes/logo_RDA_2020-2.png" width=20>
 
 ## Germany
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397199310/c631aa62c243f1b9ff446c3ec7e80954.png" width=20>
