@@ -5,16 +5,17 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
+- [Argentina](#Argentina)
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
+- [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
-- [Argentina](#Argentina)
-- [Mexico](#mexico):mexico:
+
 
 
 ## Global
