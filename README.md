@@ -5,16 +5,16 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
+- [Argentina](#Argentina)
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
+- [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
-- [Argentina](#Argentina)
-- [Mexico](#mexico):mexico:
 
 
 ## Global
@@ -32,6 +32,11 @@
 - [TrillionTreeCampaign](https://www.trilliontreecampaign.org/)<img src="https://www.1t.org/wp-content/uploads/2020/01/Trillion-Trees.jpg" width=20>
 - [WeForest](https://www.weforest.org/page/donate)<img src="https://www.weforest.org/sites/default/files/WF_Logo-500px-RGB_2_1.jpg" width=20>
 
+
+## Argentina
+
+- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
+- [ReforestArg](https://en.reforestarg.org.ar/)
 
 ## Brazil
 
@@ -84,6 +89,12 @@
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
 
 
+## Mexico
+
+- [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
+- [Reforestamos Mexico](https://www.reforestamosmexico.org/)
+- [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
 ## UK
 
 - [The Tree Council](https://treecouncil.org.uk/)<img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/87468971_2721560951296392_4241276193300545536_n.png?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=gCOXEVYApKcAX9ywKGm&_nc_ht=scontent.fbom3-2.fna&oh=b6ca6303961f663e5aa28717e9dc8ac3&oe=5F9D20E3" width=20>
@@ -98,14 +109,3 @@
 - [onetreeplanted](https://onetreeplanted.org/)
 - [The Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/plant-a-billion/)
 - [National Forest Foundation](https://www.nationalforests.org/get-involved/tree-planting-programs/)<img src="https://www.nationalforests.org/_theme/img/new-nff-logo-stacked.svg" width=20>
-
-## Argentina
-
-- [ReforestArg](https://en.reforestarg.org.ar/)
-- [onetreeplanted](https://onetreeplanted.org/)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
-
-## Mexico
-
-- [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
-- [Reforestamos Mexico](https://www.reforestamosmexico.org/)
-- [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
