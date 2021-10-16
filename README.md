@@ -43,7 +43,7 @@
 - [Refloresta](https://www.refloresta.org.br/plante)<img src="https://refloresta.pt/wp-content/uploads/2019/10/Logo-Refloresta-500px-min.png" width=20>
 - [Regua](http://regua.org/donate/)<img src="https://www.rainforesttrust.org/wp-content/uploads/regua.jpg" width=20>
 - [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)<img src="https://i.pinimg.com/originals/78/ff/ec/78ffecbe0d76e547389390d64294fd33.jpg" width=20>
-
+- [WWF-Brasil](https://doe.wwf.org.br/wwf-brasil)<img src="https://cdnassets.panda.org/_skins/pandaorg3/img/logo.png" width=20>
 ## Canada
 
 - [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
