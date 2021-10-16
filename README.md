@@ -69,6 +69,8 @@
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [TreeSena](https://treesena.org/)
+- [WWFIndia](https://join.wwfindia.org/adopt-a-tree/index.php)
+- [Greenpop](https://greenpop.org/)
 
 
 ## Indonesia
