@@ -59,6 +59,7 @@
 ## India
 - [Aawahan Foundation](https://www.aahwahan.com/donate-now)
 - [Back To Green](https://www.backtogreen.in/donate)
+- [Chintan](https://www.chintan-india.org/)
 - [Green Yatra](http://www.greenyatra.org/)<img src="https://www.greenyatra.org/images/services/tree-plant.png" width=20>
 - [Greenvein](http://greenvein.org/)
 - [Grow-Trees](https://www.grow-trees.com/)<img src="https://www.grow-trees.com/img/GTsociallogo.png" width=20>
