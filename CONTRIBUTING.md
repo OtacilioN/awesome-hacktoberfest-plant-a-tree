@@ -6,7 +6,7 @@ We only have one planet earth and we need to take good care of it, for ourselves
 
 So take the time to donate to an organisation that contributes to reforestation around the world, and help more people and find these institutions.
 
-## Have you found some awesome organisation that you can donate money to plant trees? 🌱
+## Have you found some awesome organisation that you can donate money to plan trees? 🌱
 
 Add them to this list so others can find it too and donate money to contribute for a sustainable future!
 
