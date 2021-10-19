@@ -12,7 +12,7 @@
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
-- [Korea](#korea):ko:
+- [Korea](#korea):kr:
 - [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
