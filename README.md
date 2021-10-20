@@ -13,6 +13,7 @@
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
+- [Portugal](#portugal):portugal:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
 
@@ -83,6 +84,10 @@
 ## Japan
 
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
+
+## Portugal
+
+- [Planta Uma Árvore](https://plantarumaarvore.org/apoie/)<img src="https://plantarumaarvore.org/wp-content/themes/plantarumaarvore/dist/images/logo.svg" width=20>
 
 
 ## UK
