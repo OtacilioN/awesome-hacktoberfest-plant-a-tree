@@ -40,6 +40,7 @@
 - [Global Tree](http://www.globaltree.com.br/doar.html)<img src="https://plantgrowsave.org/wp-content/uploads/GlobalTreeInitiative_Website-Logo.png" width=20>
 - [Iniciativa Verde](https://www.iniciativaverde.org.br/programas-e-projetos-amigo-da-floresta-form-plante-arvores.php)<img src="https://www.anadep.org.br/wtksite/cms/conteudo/4559/manual_marca_CF_Page_1.jpg" width=20>
 - [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Plant-for-the-Planet.svg/1200px-Plant-for-the-Planet.svg.png" width=20>
+- [Projeto Plantar](https://www.projetoplantar.com.br/#faca_sua_parte)<img src="https://www.projetoplantar.com.br/assets/images/36.png" width=20>
 - [Refloresta](https://www.refloresta.org.br/plante)<img src="https://refloresta.pt/wp-content/uploads/2019/10/Logo-Refloresta-500px-min.png" width=20>
 - [Regua](http://regua.org/donate/)<img src="https://www.rainforesttrust.org/wp-content/uploads/regua.jpg" width=20>
 - [SOS Mata Atlântica](https://www.sosma.org.br/comprar-mudas/)<img src="https://i.pinimg.com/originals/78/ff/ec/78ffecbe0d76e547389390d64294fd33.jpg" width=20>
