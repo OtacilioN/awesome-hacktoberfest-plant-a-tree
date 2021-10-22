@@ -110,3 +110,9 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Philippines
+
+- [Haribon Foundation](https://haribon.org.ph/)
+- [CLICK A TREE](https://clickatree.com/tree-planting-in-the-philippines/)
+- [ONETREEPLANTED](https://onetreeplanted.org/products/philippines)
