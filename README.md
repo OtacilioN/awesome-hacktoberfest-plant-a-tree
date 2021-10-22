@@ -15,6 +15,7 @@
 - [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
+- [Pakistan](#pakistan):pakistan:
 
 
 
@@ -110,3 +111,7 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Pakistan
+
+-[Global Giving](https://www.globalgiving.org/projects/plant-a-tree-in-karachi/)
