@@ -13,6 +13,7 @@
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
+- [Pakistan](#pakistan):pakistan:
 - [UK](#uk):uk: 
 - [USA](#usa):us:
 
@@ -78,6 +79,10 @@
 - [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)<img src="https://www.orangutanrepublik.org/static/img/logos/logo.png" width=20>
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)<img src="https://www.reforestaction.com/sites/default/files/logoraen.jpg" width=20>
 - [Trees4Trees](https://trees4trees.org/)<img src="https://trees4trees.org/wp-content/uploads/2020/07/logo-t4t.png" width=20>
+
+## Pakistan
+
+- [Rung Do Pakistan](https://www.wwfpak.org/take_action/corporate_engagement/rung_do_pakistan___tree_a_thon/)<img src="https://cdnassets.panda.org/_skins/international/img/logo.png" width=20>
 
 
 ## Japan
