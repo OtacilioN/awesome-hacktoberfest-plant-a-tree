@@ -11,7 +11,7 @@
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
-- [Italy](#italy):italy:
+- [Italy](#italy):italia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
