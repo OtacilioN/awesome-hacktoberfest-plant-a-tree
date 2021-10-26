@@ -9,6 +9,7 @@
 - [Brazil](#brazil):brazil:
 - [Canada](#canada):canada:
 - [Germany](#germany):de:
+- [Hungary](#hungary):hungary:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
@@ -54,6 +55,9 @@
 - [Better Place](https://www.betterplace.org/en/organisations/24788-i-plant-a-tree)<img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397199310/c631aa62c243f1b9ff446c3ec7e80954.png" width=20>
 - [Ecosia](https://www.ecosia.org)
 - [Green Forest Fund](https://www.greenforestfund.de/en/participate/tree-gift/)
+
+## Hungary
+- [Plan a Tree Project](https://plantatreeproject.com/)
 
 ## India
 - [Aawahan Foundation](https://www.aahwahan.com/donate-now)
