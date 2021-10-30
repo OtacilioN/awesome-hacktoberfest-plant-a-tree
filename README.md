@@ -62,6 +62,7 @@
 - [Greenvein](http://greenvein.org/)
 - [Grow-Trees](https://www.grow-trees.com/)<img src="https://www.grow-trees.com/img/GTsociallogo.png" width=20>
 - [onetreeplanted](https://onetreeplanted.org/products/india)
+- [Nelda](https://www.nelda.org.in/tree-plantation-services)<img src="https://www.nelda.org.in/images/logo.png" width=20>
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)<img src="https://www.gbrionline.org/wp-content/uploads/2017/05/1.png" width=20>
 - [Rotary India](https://www.rotaryindia.org/)<img src="https://www.rotaryindia.org/assets/images/logo.png" width=20>
 - [SankalpTaru](https://sankalptaru.org/)<img src="https://sankalptaru.org/wp-content/themes/sankalptaru/dist/img/st-logo-green.png" width=20>
