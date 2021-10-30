@@ -11,6 +11,7 @@
 - [Germany](#germany):de:
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
+- [Malaysia](#malaysia):malaysia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
 - [UK](#uk):uk: 
@@ -79,6 +80,9 @@
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)<img src="https://www.reforestaction.com/sites/default/files/logoraen.jpg" width=20>
 - [Trees4Trees](https://trees4trees.org/)<img src="https://trees4trees.org/wp-content/uploads/2020/07/logo-t4t.png" width=20>
 
+## Malaysia
+
+- [FreeTreeSociety](https://freetreesociety.org/)
 
 ## Japan
 
