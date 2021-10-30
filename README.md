@@ -73,6 +73,7 @@
 
 ## Indonesia
 
+- [EcolifyBlog](https://ecolify.org/blog/live-planting-rasakan-sensasi-tanam-pohon-jarak-jauh)<img src="https://ecolify.org/_nuxt/img/logoBlog.72948fb.png" width=20>
 - [JustOneTree](https://www.justonetree.life/where-we-plant_indonesia.html)<img src="https://www.justonetree.life/uploads/1/2/5/8/125855028/jot-logo-single-line-colour_3.png" width=20>
 - [OneTreePLanted](https://onetreeplanted.org/products/indonesia)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)<img src="https://www.orangutanrepublik.org/static/img/logos/logo.png" width=20>
