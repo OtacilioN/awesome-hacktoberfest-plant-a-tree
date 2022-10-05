@@ -57,6 +57,7 @@
 
 - [Aawahan Foundation](https://www.aahwahan.com/donate-now)
 - [Back To Green](https://www.backtogreen.in/donate)
+- [Damooga Foundation](https://damoogafoundation.org/gift_and_greet.php)
 - [Catch Foundation](https://catchfoundation.in/plantenance/)<img src="https://www.catchfoundation.in/wp-content/uploads/2019/10/Logo.png" width=20>
 - [Green Yatra](http://www.greenyatra.org/)<img src="https://www.greenyatra.org/images/services/tree-plant.png" width=20>
 - [Greenvein](http://greenvein.org/)
@@ -71,6 +72,7 @@
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [Tree for Life (TFL) Foundation](https://www.treeforlifefoundation.org/)
 - [TreeSena](https://treesena.org/)
+- [Vanam India Foundation](https://vanamindiafoundation.org/)
 - [Save Green](https://www.savegreen.in/savegreen/paytm/donation.php)
 
 ## Indonesia
