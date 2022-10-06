@@ -13,6 +13,7 @@
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
+- [Portugal](#portugal):portugal:
 - [UK](#uk):uk:
 - [USA](#usa):us:
 
@@ -111,3 +112,7 @@
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Portugal
+
+- [PlantarUmaArvore](https://plantarumaarvore.org/apoie/)
