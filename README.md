@@ -5,16 +5,16 @@
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
-- [Argentina](#Argentina)
-- [Brazil](#brazil):brazil:
-- [Canada](#canada):canada:
-- [Germany](#germany):de:
-- [India](#india):india:
-- [Indonesia](#indonesia):indonesia:
-- [Japan](#japan):jp:
-- [Mexico](#mexico):mexico:
-- [UK](#uk):uk:
-- [USA](#usa):us:
+- [Argentina](#argentina) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e6-1f1f7.png" width=20>
+- [Brazil](#brazil) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1f7.png" width=20>
+- [Canada](#canada) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e8-1f1e6.png" width=20>
+- [Germany](#germany) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e9-1f1ea.png" width=20>
+- [India](#india) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ee-1f1f3.png" width=20>
+- [Indonesia](#indonesia) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ee-1f1e9.png" width=20>
+- [Japan](#japan) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ef-1f1f5.png" width=20>
+- [Mexico](#mexico) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1f2-1f1fd.png" width=20>
+- [UK](#uk) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ec-1f1e7.png" width=20>
+- [USA](#usa) <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fa-1f1f8.png" width=20>
 
 ## Global
 
@@ -86,10 +86,12 @@
 ## Japan
 
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
+- [More Trees](https://www.more-trees.org/en/get-involved/)<img src="[https://www.more-trees.org/en/](https://japan-design-contents.imazy.net/images/crafts/more-trees-design/tree-ring-clock/11.jpg)" width=20>
 
 ## UK
 
 - [The Tree Council](https://treecouncil.org.uk/)<img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/87468971_2721560951296392_4241276193300545536_n.png?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=gCOXEVYApKcAX9ywKGm&_nc_ht=scontent.fbom3-2.fna&oh=b6ca6303961f663e5aa28717e9dc8ac3&oe=5F9D20E3" width=20>
+- [National Trust](https://www.nationaltrust.org.uk/features/plant-a-tree#:~:text=How%20much%20does%20it%20cost,people%20and%20wildlife%20to%20thrive)<img src="https://play-lh.googleusercontent.com/XIAw60GUduAEV5RshmoCyRYSB56E2KZ0rIPkLvKST1XgFTaAAX4CE_Q4OoQFv3wM_g" width=20>
 
 ## Taiwan
 
