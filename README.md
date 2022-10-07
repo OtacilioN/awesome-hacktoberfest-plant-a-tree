@@ -57,8 +57,8 @@
 
 - [Aawahan Foundation](https://www.aahwahan.com/donate-now)
 - [Back To Green](https://www.backtogreen.in/donate)
-- [Damooga Foundation](https://damoogafoundation.org/gift_and_greet.php)
 - [Catch Foundation](https://catchfoundation.in/plantenance/)<img src="https://www.catchfoundation.in/wp-content/uploads/2019/10/Logo.png" width=20>
+- [Damooga Foundation](https://damoogafoundation.org/gift_and_greet.php)
 - [Green Yatra](http://www.greenyatra.org/)<img src="https://www.greenyatra.org/images/services/tree-plant.png" width=20>
 - [Greenvein](http://greenvein.org/)
 - [Grow-Trees](https://www.grow-trees.com/)<img src="https://www.grow-trees.com/img/GTsociallogo.png" width=20>
@@ -67,13 +67,13 @@
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)<img src="https://www.gbrionline.org/wp-content/uploads/2017/05/1.png" width=20>
 - [Rotary India](https://www.rotaryindia.org/)<img src="https://www.rotaryindia.org/assets/images/logo.png" width=20>
 - [SankalpTaru](https://sankalptaru.org/)<img src="https://sankalptaru.org/wp-content/themes/sankalptaru/dist/img/st-logo-green.png" width=20>
+- [Save Green](https://www.savegreen.in/savegreen/paytm/donation.php)
 - [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
 - [Siruthuli](https://siruthuli.com/)<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Siruthuli_Logo.jpg" width=20>
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [Tree for Life (TFL) Foundation](https://www.treeforlifefoundation.org/)
 - [TreeSena](https://treesena.org/)
 - [Vanam India Foundation](https://vanamindiafoundation.org/)
-- [Save Green](https://www.savegreen.in/savegreen/paytm/donation.php)
 
 ## Indonesia
 
