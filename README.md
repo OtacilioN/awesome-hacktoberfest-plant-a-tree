@@ -65,6 +65,7 @@
 - [Isha Foundation](https://www.ishaoutreach.org/en/cauvery-calling/plant-trees)
 - [onetreeplanted](https://onetreeplanted.org/products/india)
 - [Project Greenhands](https://www.ishaoutreach.org/en/project-greenhands)<img src="https://www.gbrionline.org/wp-content/uploads/2017/05/1.png" width=20>
+- [Rebuild Odisha](http://rebuild.odisha.gov.in/plantation)
 - [Rotary India](https://www.rotaryindia.org/)<img src="https://www.rotaryindia.org/assets/images/logo.png" width=20>
 - [SankalpTaru](https://sankalptaru.org/)<img src="https://sankalptaru.org/wp-content/themes/sankalptaru/dist/img/st-logo-green.png" width=20>
 - [SayTree](https://saytrees.org/)<img src="https://naturalvibes.in/wp-content/uploads/2019/02/Say-Trees-Logo.jpg" width=20>
@@ -74,6 +75,7 @@
 - [TreeSena](https://treesena.org/)
 - [Vanam India Foundation](https://vanamindiafoundation.org/)
 - [Save Green](https://www.savegreen.in/savegreen/paytm/donation.php)
+- [World Wide Fund - India](https://join.wwfindia.org/adopt-a-tree/index.php)
 
 ## Indonesia
 
