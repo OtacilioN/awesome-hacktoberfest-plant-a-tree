@@ -17,6 +17,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
+- [Lithuania](#Lithuania)
 - [Rwanda](#rwanda):rwanda:
 - [Portugal](#portugal):portugal:
 - [UK](#uk):uk:
@@ -125,6 +126,10 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [HowDoIt](https://www.gob.mx/semarnat/articulos/como-plantar-un-arbol-179529?idiom=es)
 - [Reforestamos Mexico](https://www.reforestamosmexico.org/)
 - [Sedema](https://sedema.cdmx.gob.mx/programas/programa/reforestacion)
+
+## Lithuania
+
+- [PasodinkMedi](https://pasodinkmedi.lt/)
 
 ## Rwanda
 
