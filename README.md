@@ -76,6 +76,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [Sprouting India](https://www.sproutingindia.org/our-story)
 - [Tree for Life (TFL) Foundation](https://www.treeforlifefoundation.org/)
 - [TreeSena](https://treesena.org/)
+- [Vetry](https://vetry.in)
 - [Vanam India Foundation](https://vanamindiafoundation.org/)
 - [Save Green](https://www.savegreen.in/savegreen/paytm/donation.php)
 
