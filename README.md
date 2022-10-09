@@ -2,6 +2,10 @@
 
 > Will you choose the :sparkles: Hacktoberfest t-shirt :sparkles: but don't want to stop **contributing to the environment** and a **sustainable future**? Find an organization here so **you can** plant a tree! :seedling:
 
+## Important :warning:
+
+This repository is considered excluded from hacktoberfest, so contributions here will not count towards the event. But the trees planted through here will still save the world
+
 ## Choose where to plant
 
 - [Global](#global):globe_with_meridians:
