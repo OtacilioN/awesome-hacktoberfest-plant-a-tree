@@ -13,10 +13,10 @@ Add them to this list so others can find it too and donate money to contribute f
 ## Submitting a pull request
 
 1. [Fork](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree/fork) and clone the repository.
-1. Create a new branch: `git checkout -b add/new-org-name`.
-1. Add one organisation per Pull request, help us to avoid conflicts.
-1. Add the organisation in alphabetical order in a section or create a new section for a new country.
-1. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree/compare).
+2. Create a new branch: `git checkout -b add/new-org-name`.
+3. Add one organisation per Pull request, help us to avoid conflicts.
+4. Add the organisation in alphabetical order in a section or create a new section for a new country.
+5. Push to your fork and [submit a pull request](https://github.com/OtacilioN/awesome-hacktoberfest-plant-a-tree/compare).
 > Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
 > There are a lot of good websites that you can research before opening a request instead of just writing "cool" or "Hello World"
 1. Pat yourself on the back and wait for your `pull request` to be reviewed and merged.
