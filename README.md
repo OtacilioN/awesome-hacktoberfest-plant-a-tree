@@ -98,6 +98,9 @@ This repository is considered excluded from hacktoberfest, so contributions here
 
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
 
+## Philippines
+- [Haribon](https://haribon.org.ph/support-our-work/rainforestation/)<img src="https://haribon.org.ph/wp-content/themes/haribon/library/images/logo.png" width=20>
+
 ## Portugal
 
 - [CTT - Uma árvore pela floresta](https://www.ctt.pt/grupo-ctt/sustentabilidade/projetos-e-iniciativas/uma-arvore-pela-floresta/index) <img src="https://www.ctt.pt/application/themes/images/logo-ctt.svg" width=20>
