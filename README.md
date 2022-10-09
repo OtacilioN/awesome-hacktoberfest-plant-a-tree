@@ -41,6 +41,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 ## Brazil
 
 - [Amazonia Live](https://doare.org/amazonia-live)<img src="https://believe.earth/wp-content/uploads/2017/11/amazonia-live-logo-239x150.png" width=20>
+- [Copaíba](https://www.copaiba.org.br/)<img src="https://www.copaiba.org.br/wp-content/themes/copaiba-opera2/assets/images/logo-copaiba-original.png" width=20>
 - [Global Tree](http://www.globaltree.com.br/doar.html)<img src="https://plantgrowsave.org/wp-content/uploads/GlobalTreeInitiative_Website-Logo.png" width=20>
 - [Iniciativa Verde](https://www.iniciativaverde.org.br/programas-e-projetos-amigo-da-floresta-form-plante-arvores.php)<img src="https://www.anadep.org.br/wtksite/cms/conteudo/4559/manual_marca_CF_Page_1.jpg" width=20>
 - [Plant for the Planet](https://www.plant-for-the-planet.org/pt/doacao)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Plant-for-the-Planet.svg/1200px-Plant-for-the-Planet.svg.png" width=20>
