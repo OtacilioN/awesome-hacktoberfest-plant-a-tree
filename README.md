@@ -17,6 +17,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
 - [Mexico](#mexico):mexico:
+- [Portugal](#portugal):portugal:
 - [UK](#uk):uk:
 - [USA](#usa):us:
 
@@ -48,7 +49,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 
 ## Canada
 
-- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%28organization%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
+- [OneTreePLanted](https://onetreeplanted.org/collections/canada#:~:text=One%20Tree%20Planted%20is%20a,British%20Columbia%2C%20Quebec%20and%20Ontario.)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OTP_%:88%27s_logo%29.png/220px-OTP_%28organization%27s_logo%29.png" width=20>
 - [TreeCanada](https://treecanada.ca/)<img src="https://treecanada.ca/wp-content/uploads/2017/11/TCLogos_Green-Eng-1025x475-green.png" width=20>
 
 ## Germany
@@ -91,6 +92,10 @@ This repository is considered excluded from hacktoberfest, so contributions here
 ## Japan
 
 - [AEON Environmental Foundation](https://www.aeon.info/ef/en/)<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaDqG-8teGZbcxSHRzVJ9JKuJCxHu10zSPGQ&usqp=CAU" width=20>
+
+## Portugal
+
+- [CTT - Uma árvore pela floresta](https://www.ctt.pt/grupo-ctt/sustentabilidade/projetos-e-iniciativas/uma-arvore-pela-floresta/index) <img src="https://www.ctt.pt/application/themes/images/logo-ctt.svg" width=20>
 
 ## UK
 
