@@ -105,6 +105,9 @@ This repository is considered excluded from hacktoberfest, so contributions here
 ## UK
 
 - [The Tree Council](https://treecouncil.org.uk/)<img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/87468971_2721560951296392_4241276193300545536_n.png?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=gCOXEVYApKcAX9ywKGm&_nc_ht=scontent.fbom3-2.fna&oh=b6ca6303961f663e5aa28717e9dc8ac3&oe=5F9D20E3" width=20>
+- [Trees For Cities](https://www.treesforcities.org/)<img src="https://pbs.twimg.com/profile_images/1057933153229328384/4PMkLkEf_400x400.jpg" width=20>
+- [Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/plant-100k/)<img src="https://horticulturecareers.co.uk/wp-content/uploads/2019/06/woodland-trust.jpg" width=20>
+- [The National Forest](https://www.nationalforest.org/get-involved/plant-a-tree)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_National_Forest_logo.svg/1200px-The_National_Forest_logo.svg.png" width=20>
 
 ## Taiwan
 
