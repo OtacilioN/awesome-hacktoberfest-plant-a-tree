@@ -98,6 +98,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [OrangUtanRepublik](https://www.orangutanrepublik.org/get-involved/plant-a-tree/)<img src="https://www.orangutanrepublik.org/static/img/logos/logo.png" width=20>
 - [Reforestaction](https://www.reforestaction.com/en/indonesia)<img src="https://www.reforestaction.com/sites/default/files/logoraen.jpg" width=20>
 - [Trees4Trees](https://trees4trees.org/)<img src="https://trees4trees.org/wp-content/uploads/2020/07/logo-t4t.png" width=20>
+- [LindungiHutan](https://lindungihutan.com/)<img src="https://lindungihutan.com/public/img-redesign/logo_lindungihutan.png" width=20>
 
 ## Japan
 
