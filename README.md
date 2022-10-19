@@ -16,6 +16,7 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [India](#india):india:
 - [Indonesia](#indonesia):indonesia:
 - [Japan](#japan):jp:
+- [Nigeria](#nigeria):ng:
 - [UK](#uk):uk:
 - [USA](#usa):us:
 - [Argentina](#Argentina)
